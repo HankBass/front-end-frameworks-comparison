@@ -46,6 +46,9 @@
 | [React](https://github.com/facebook/react) | 117502 | 21309 | 498 | Dec 13,2018 | May 25,2013 |
 | [angular](https://github.com/angular/angular) | 43473 | 11143 | 2618 | Dec 13,2018 | Sep 19,2014 |
 
+
+统计的数据有时效性，如需了解最新的数据[点我](https://www.npmtrends.com/angular-vs-react-vs-vue-vs-@angular/core)
+
 -------------------------------
 
 ### 流行度对比
