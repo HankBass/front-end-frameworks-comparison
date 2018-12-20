@@ -1,6 +1,14 @@
 # front-end-frameworks-comparison
 前端框架横向比对（Vue、React 和 Angular）
 
+### 一些历史
+
+**Angular** 是基于 TypeScript 的 Javascript 框架。由 Google 进行开发和维护，它被描述为“超级厉害的 JavaScript [MVW](https://plus.google.com/+AngularJS/posts/aZNVhj355G2) 框架”。Angular（也被称为 “Angular 2+”，“Angular 2” 或者 “ng2”）已被重写，是与 AngularJS（也被称为 “Angular.js” 或 “AngularJS 1.x”）不兼容的后续版本。当 AngularJS（旧版本）最初于2010年10月发布时，仍然在[修复bug](https://github.com/angular/angular.js)，等等 —— 新的 Angular（sans JS）于 2016 年 9 月推出版本 2。最新的主版本是 4，[因为版本 3 被跳过了](https://www.infoworld.com/article/3150716/application-development/forget-angular-3-google-skips-straight-to-angular-4.html)。
+
+**React** 被描述为 “用于构建用户界面的 JavaScript 库”。React 最初于 2013 年 3 月发布，由 Facebook 进行开发和维护，Facebook 在多个页面上使用 React 组件（但不是作为单页应用程序）。
+
+**Vue** 是 2016 年发展最为迅速的 JS 框架之一。Vue 将自己描述为一款“用于构建直观，快速和组件化交互式界面的 [MVVM](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel) 框架”。它于 2014 年 2 月首次由 Google 前员工 [Evan You](https://github.com/yyx990803) 发布。
+
 ### 背景对比 
 
 对比 | Vue | React | Angular 
@@ -94,7 +102,7 @@
   
   * statejs
 
-    statejs 网站使用了一套包含上百个问题的问卷调查，从超过 28000 名开发者中得出的 2018 年关于前端框架调查，[结果](https://2018.stateofjs.com/front-end-frameworks/overview/) 如下：
+    statejs 网站使用了一套包含上百个问题的问卷调查，从超过 20000 名开发者中得出的 2018 年关于前端框架调查，[结果](https://2018.stateofjs.com/front-end-frameworks/overview/) 如下：
 
     ![image](https://raw.githubusercontent.com/HankBass/front-end-frameworks-comparison/master/images/stateofjs.png)
 
