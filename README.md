@@ -41,10 +41,10 @@
 
 |  | stars | forks | issues |updated | created |
 | ------- | -----: | -----: | -----: | -----: | -----: |
-| [angular.js](https://github.com/angular/angular.js) | 59304 | 29005 | 485 | Dec 12,2018 | Jan 6,2010 |
-| [Vue](https://github.com/vuejs/vue) | 121982 | 17432 | 227 | Dec 13,2018 | Jul 29,2013 |
-| [React](https://github.com/facebook/react) | 117502 | 21309 | 498 | Dec 13,2018 | May 25,2013 |
-| [angular](https://github.com/angular/angular) | 43473 | 11143 | 2618 | Dec 13,2018 | Sep 19,2014 |
+| [angular.js](https://github.com/angular/angular.js) | 59308 | 29000 | 487 | Dec 18, 2018 | Jan 6,2010 |
+| [Vue](https://github.com/vuejs/vue) | 122678 | 17540 | 230 | Dec 20, 2018 | Jul 29,2013 |
+| [React](https://github.com/facebook/react) | 117977 | 21403 | 525 | Dec 20, 2018 | May 25,2013 |
+| [angular](https://github.com/angular/angular) | 43663 | 11223 | 2618 | Dec 20, 2018 | Sep 19,2014 |
 
 
 统计的数据有时效性，如需了解最新的数据[点我](https://www.npmtrends.com/angular-vs-react-vs-vue-vs-@angular/core)
@@ -74,6 +74,13 @@
       ![image](https://raw.githubusercontent.com/HankBass/front-end-frameworks-comparison/master/images/baidu%20chart.png)
 
 2. 国外流行度 
+
+  * [npm趋势](https://www.npmtrends.com/angular-vs-react-vs-vue-vs-@angular/core)
+    
+    ![image](https://raw.githubusercontent.com/HankBass/front-end-frameworks-comparison/master/images/npm.png)
+
+
+
   * [谷歌趋势](https://trends.google.com/trends/explore?q=vue,react,angular)
 
   1. 热度随时间变化的趋势
